@@ -1,0 +1,36 @@
+{
+    "web_app" : {
+
+    }, 
+    "web_site" : {
+        "menu" : [
+            "Services",
+            "Collection & Delivery",
+            "Reviews",
+            "About US"
+        ],
+        "heading_1" : "For Domestic & Commercial Laundry",
+        "heading_2" : "Easy Laundry Saves You Money And Gives You Back Your Time",
+        "heading_3" : "Market Leading Laundry & Dry Cleaning Service",
+        "heading_4" : "We collect, clean & return at a time and location of your choice.",
+        "heading_5" : "Collection within 1 hour, next day return.",
+        "heading_6" : "Highest quality and lowest price guaranteed.",
+        "heading_7" : "How Laundry-24U Works",
+        "heading_8" : "DRY CLEANING & LAUNDRY MADE EASY",
+        "heading_9" : "Your Order",
+        "heading_10" : "We Collect",
+        "heading_11" : "We Clean",
+        "heading_12" : "We Return",
+        "heading_13" : "Order Online or from our App",
+        "heading_14" : "We will collect at a time & place that suit you",
+        "heading_15" : "We will work our magic",
+        "heading_16" : "We will return your clean clothes",
+        "heading_17" : "Washing Service",
+        "heading_18" : "Ironing Service",
+        "heading_19" : "Dry Cleaning Service",
+        "order_now" : "ORDER NOW",
+        "sign_in" : "SIGN IN",
+        "log_in" : "LOG IN"
+    }
+}
+
