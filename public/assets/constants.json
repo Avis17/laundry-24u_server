@@ -30,7 +30,10 @@
         "heading_19" : "Dry Cleaning Service",
         "order_now" : "ORDER NOW",
         "sign_in" : "SIGN IN",
-        "log_in" : "LOG IN"
+        "log_in" : "LOGIN",
+        "reset_password" : "Reset Password",
+        "schedule_a_pickup" : "Schedule a Pickup",
+        "submit":"Submit"
     }
 }
 
