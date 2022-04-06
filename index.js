@@ -55,9 +55,9 @@ app.get('/', (req, res) => {
   res.sendFile('index.html',{root:__dirname})
 });
 
-mongo.connect().then(async (result) => {
-  console.log("db connected", result);
-});
+// mongo.connect().then(async (result) => {
+//   console.log("db connected", result);
+// });
 
 var listener = app.listen(port, () => {
   //hostname,
